@@ -1,11 +1,10 @@
 # 🧮 Calculadora Binária
 
-Bem-vindo à **Calculadora Binária**, uma ferramenta simples e eficiente para realizar operações matemáticas no sistema binário! Se você trabalha com eletrônica, programação ou simplesmente quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
+Bem-vindo à **Calculadora Binária**, uma ferramenta simples e eficiente para realizar conversões no sistema binário! Se você trabalha com eletrônica, programação ou simplesmente quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
 
 ## ✨ Funcionalidades
 
 ✅ **Conversão** entre decimal e binário automaticamente
-✅ **Operações básicas**: soma, subtração, multiplicação e divisão
 ✅ **Interface intuitiva** para facilitar o uso
 ✅ **Código aberto** e bem documentado para facilitar contribuições
 
