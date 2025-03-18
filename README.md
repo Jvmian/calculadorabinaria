@@ -1,4 +1,4 @@
-# ca# 🧮 Calculadora Binária
+# 🧮 Calculadora Binária
 
 Bem-vindo à **Calculadora Binária**, uma ferramenta simples e eficiente para realizar operações matemáticas no sistema binário! Se você trabalha com eletrônica, programação ou simplesmente quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
 
