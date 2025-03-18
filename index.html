@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Base</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h2>Conversor de Base Numérica</h2>
+        <div id="aviso" class="aviso"></div>
+        <div class="input-group">
+            <label for="binario">Binário</label>
+            <input type="text" id="binario" oninput="converterDeBinario()" placeholder="Digite um número binário">
+        </div>
+
+        <div class="input-group">
+            <label for="octal">Octal</label>
+            <input type="text" id="octal" oninput="converterDeOctal()" placeholder="Digite um número octal">
+        </div>
+
+        <div class="input-group">
+            <label for="decimal">Decimal</label>
+            <input type="text" id="decimal" oninput="converterDeDecimal()" placeholder="Digite um número decimal">
+        </div>
+
+        <div class="input-group">
+            <label for="hexadecimal">Hexadecimal</label>
+            <input type="text" id="hexadecimal" oninput="converterDeHexadecimal()" placeholder="Digite um número hexadecimal">
+        </div>
+    </div>
+    <footer>
+        <p>Desenvolvido por <a href="https://www.linkedin.com/in/jvmian/" target="_blank">João Victor Mian Valdomiro</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

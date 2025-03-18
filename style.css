@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #2E3192, #1BFFFF);
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    text-align: center;
+    width: 350px;
+    color: white;
+}
+.aviso {
+    display: none; /* Inicialmente oculto */
+    background-color: #ff4444;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    animation: fadeOut 3s forwards; /* Animação para desaparecer */
+}
+
+@keyframes fadeOut {
+    0% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { opacity: 0; display: none; }
+}
+h2 {
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+label {
+    display: block;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: 0.3s;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+input:focus {
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(135deg, rgba(46, 49, 146, 0.9), rgba(27, 255, 255, 0.9));
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    backdrop-filter: blur(10px);
+    z-index: 1000;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.2);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+footer p {
+    margin: 0;
+    font-weight: 400;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+footer a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: #ffffff;
+    bottom: -2px;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+}
+
+footer a:hover {
+    color: #57ebff;
+}
+
+footer a:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
