@@ -1,59 +1,56 @@
-🧮 Calculadora Binária
+# 🧮 Calculadora Binária
 
-Bem-vindo à Calculadora Binária, uma ferramenta simples e eficiente para realizar conversões no sistema binário.
+Bem-vindo à **Calculadora Binária**, uma ferramenta simples e eficiente para realizar conversões no sistema binário.
 
-Se você trabalha com eletrônica, programação ou quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
+Se você trabalha com **eletrônica**, **programação** ou quer aprender mais sobre **números binários**, este projeto é perfeito para você 🚀
 
-✨ Funcionalidades
+---
 
-✅ Conversão automática entre decimal ↔ binário
+## ✨ Funcionalidades
 
-✅ Interface simples e intuitiva
+✅ Conversão automática entre decimal ↔ binário  
+✅ Interface simples e intuitiva  
+✅ Código aberto e bem organizado  
+✅ Ideal para estudos em lógica, programação e eletrônica  
 
-✅ Código aberto e bem organizado
+---
 
-✅ Ideal para estudos em lógica, programação e eletrônica
+## 📌 Como usar
 
-📌 Como usar
-
-1️⃣ Clone o repositório
+```bash
 git clone https://github.com/seu-usuario/calculadora-binaria.git
-
-2️⃣ Acesse a pasta do projeto
 cd calculadora-binaria
+# Abra o arquivo index.html no navegador
+```
 
-3️⃣ Execute
+---
 
-Abra o arquivo index.html no seu navegador.
+## 🛠 Tecnologias utilizadas
 
-🛠 Tecnologias utilizadas
+- HTML — Estrutura da aplicação  
+- CSS — Estilização e responsividade  
+- JavaScript — Lógica e interatividade  
 
-HTML — estrutura da aplicação
+---
 
-CSS — estilização e responsividade
-
-JavaScript — lógica e interatividade
-
-🤝 Contribuindo
+## 🤝 Contribuindo
 
 Contribuições são muito bem-vindas 🚀
 
 Você pode:
-
-Abrir uma issue
-
-Enviar um pull request
-
-Sugerir melhorias ou novas funcionalidades
+- Abrir uma *issue*
+- Enviar um *pull request*
+- Sugerir melhorias ou novas funcionalidades  
 
 Vamos evoluir esse projeto juntos!
 
-📜 Licença
+---
 
-Este projeto está sob a Licença MIT.
+## 📜 Licença
+
+Este projeto está sob a **Licença MIT**.  
 Você é livre para usar, modificar e distribuir.
 
-⭐ Dica
+---
 
-Se este projeto te ajudou ou foi útil nos estudos,
-deixe uma ⭐ no repositório — isso faz muita diferença 😊
+⭐ **Se este projeto foi útil nos seus estudos, deixe uma estrela no repositório — isso faz muita diferença 😊**
