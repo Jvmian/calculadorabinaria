@@ -3,9 +3,13 @@ Bem-vindo ao Conversor de Bases Numéricas, uma ferramenta simples e eficiente p
 Se você trabalha com eletrônica, programação ou simplesmente quer entender melhor como funcionam os números nos computadores, este projeto é perfeito para você. 🚀
 
 ✨ Funcionalidades
+
 ✅ Conversão entre binário, octal, decimal e hexadecimal
+
 ✅ Conversão automática entre as bases
+
 ✅ Interface intuitiva e responsiva
+
 ✅ Código aberto e organizado para facilitar contribuições
 
 📌 Como Usar
@@ -18,8 +22,11 @@ cd conversor-bases-numericas
 Abra o arquivo index.html no seu navegador.
 
 🛠 Tecnologias Utilizadas
+
 HTML para estruturação da página
+
 CSS para estilização e responsividade
+
 JavaScript para lógica e interatividade
 
 🤝 Contribuindo
