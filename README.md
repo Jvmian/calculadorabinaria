@@ -2,13 +2,16 @@
 
 Bem-vindo à Calculadora Binária, uma ferramenta simples e eficiente para realizar conversões no sistema binário.
 
-Se você trabalha com eletrônica, programação ou quer aprender mais sobre números binários, este projeto foi feito para você. 🚀
+Se você trabalha com eletrônica, programação ou quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
 
 ✨ Funcionalidades
 
 ✅ Conversão automática entre decimal ↔ binário
+
 ✅ Interface simples e intuitiva
+
 ✅ Código aberto e bem organizado
+
 ✅ Ideal para estudos em lógica, programação e eletrônica
 
 📌 Como usar
@@ -34,7 +37,7 @@ JavaScript — lógica e interatividade
 
 Contribuições são muito bem-vindas 🚀
 
-Sinta-se à vontade para:
+Você pode:
 
 Abrir uma issue
 
@@ -51,5 +54,5 @@ Você é livre para usar, modificar e distribuir.
 
 ⭐ Dica
 
-Se esse projeto te ajudou ou foi útil nos estudos,
-deixa uma ⭐ no repositório — isso faz muita diferença 😉
+Se este projeto te ajudou ou foi útil nos estudos,
+deixe uma ⭐ no repositório — isso faz muita diferença 😊
