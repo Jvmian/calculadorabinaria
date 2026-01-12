@@ -1,40 +1,50 @@
-# 🧮 Calculadora Binária
+🧮 Conversor de Bases Numéricas  
+Bem-vindo ao **Conversor de Bases Numéricas**, uma aplicação web desenvolvida para realizar conversões entre os sistemas **binário, octal, decimal e hexadecimal**.
 
-Bem-vindo à **Calculadora Binária**, uma ferramenta simples e eficiente para realizar conversões no sistema binário! Se você trabalha com eletrônica, programação ou simplesmente quer aprender mais sobre números binários, este projeto é perfeito para você. 🚀
+Este projeto foi criado com foco em **lógica de programação**, **representação de dados** e **conceitos fundamentais de computação e eletrônica digital**, sendo ideal para estudantes, entusiastas e profissionais da área. 🚀
 
-## ✨ Funcionalidades
+✨ Funcionalidades
+✅ Conversão entre binário, octal, decimal e hexadecimal  
+✅ Conversão automática entre diferentes bases  
+✅ Validação de entradas conforme o sistema numérico  
+✅ Interface intuitiva e responsiva  
 
-✅ **Conversão** entre decimal e binário automaticamente
-✅ **Interface intuitiva** para facilitar o uso
-✅ **Código aberto** e bem documentado para facilitar contribuições
+📌 Como usar
+Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/conversor-bases-numericas.git
+Acesse o diretório do projeto:
 
-## 📌 Como Usar
+bash
+Copiar código
+cd conversor-bases-numericas
+Abra o arquivo index.html no navegador.
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/calculadora-binaria.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd calculadora-binaria
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
+🛠 Tecnologias Utilizadas
 
-## 🛠 Tecnologias Utilizadas
+HTML – Estruturação da aplicação
 
-- **HTML** para estruturação da página
-- **CSS** para estilização e responsividade
-- **JavaScript** para lógica e interatividade
+CSS – Estilização e responsividade
 
-## 🤝 Contribuindo
+JavaScript – Implementação da lógica de conversão entre bases
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias. Vamos juntos tornar essa calculadora ainda mais incrível! 🎉
+🧠 Aprendizados
 
-## 📜 Licença
+Sistemas de numeração (base 2, 8, 10 e 16)
 
-Este projeto está sob a licença [MIT](LICENSE). Sinta-se livre para usá-lo e modificá-lo!
+Manipulação de strings e números em JavaScript
 
----
+Lógica matemática aplicada à computação
 
-💡 **Dica**: Se gostou do projeto, não esqueça de deixar uma ⭐ no repositório!
+Organização de código front-end
+
+🤝 Contribuições
+Contribuições são bem-vindas!
+Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
+
+📜 Licença
+Este projeto está sob a licença MIT.
+Sinta-se livre para utilizá-lo, modificá-lo e distribuí-lo.
+
+⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!
 
