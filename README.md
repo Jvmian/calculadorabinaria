@@ -15,6 +15,7 @@ Se você trabalha com eletrônica, programação ou quer aprender mais sobre nú
 ✅ Ideal para estudos em lógica, programação e eletrônica
 
 📌 Como usar
+
 1️⃣ Clone o repositório
 git clone https://github.com/seu-usuario/calculadora-binaria.git
 
