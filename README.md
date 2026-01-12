@@ -1,3 +1,4 @@
+```md
 🧮 Conversor de Bases Numéricas  
 Bem-vindo ao **Conversor de Bases Numéricas**, uma ferramenta simples e eficiente para realizar conversões entre diferentes sistemas numéricos.  
 Se você trabalha com **eletrônica**, **programação** ou quer entender melhor como funcionam os números nos computadores, este projeto é para você. 🚀
@@ -36,4 +37,3 @@ Este projeto está sob a licença MIT.
 Sinta-se livre para usá-lo e modificá-lo.
 
 ⭐ Se gostou do projeto, não esqueça de deixar uma estrela no repositório!
-
