@@ -5,11 +5,8 @@ Se você trabalha com eletrônica, programação ou simplesmente quer entender m
 ✨ Funcionalidades
 
 ✅ Conversão entre binário, octal, decimal e hexadecimal
-
 ✅ Conversão automática entre as bases
-
 ✅ Interface intuitiva e responsiva
-
 ✅ Código aberto e organizado para facilitar contribuições
 
 📌 Como Usar
@@ -24,9 +21,7 @@ Abra o arquivo index.html no seu navegador.
 🛠 Tecnologias Utilizadas
 
 HTML para estruturação da página
-
 CSS para estilização e responsividade
-
 JavaScript para lógica e interatividade
 
 🤝 Contribuindo
